@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #4a5c50;
-  --color-primary-light: #6e8475;
-  --color-bg-light: #fdfcf9;
-  --color-text-main: #2d3748;
-  --color-text-muted: #718096;
-  --color-accent: #d4a373;
+  --color-primary: #3f5647;
+  --color-primary-light: #5f7c69;
+  --color-bg-light: #fcfbf8;
+  --color-bg-alt: #f3efe9;
+  --color-text-main: #1a241f;
+  --color-text-muted: #5e6b64;
+  --color-accent: #c99a6c;
+  --color-accent-light: #ebd6c0;
 }
 
 @layer base {

@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-16">
           <div className="md:col-span-2">
             <a href="#" className="text-2xl font-semibold tracking-wide text-primary mb-6 block">
-              Aadhiyoga.
+              Aadhiavedha Yoga.
             </a>
             <p className="text-text-muted max-w-sm leading-relaxed mb-8">
               A holistic approach to wellness. We provide a sanctuary for your mind, body, and spirit through authentic yoga practices.
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-text-muted">
-          <p>&copy; {new Date().getFullYear()} Aadhiyoga. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Aadhiavedha Yoga. All rights reserved.</p>
           <p className="mt-2 md:mt-0">Designed with mindfulness.</p>
         </div>
       </div>
